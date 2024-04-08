@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![코드트리|실력진단-rhalsgur0086](https://banner.codetree.ai/v1/banner/rhalsgur0086)](https://www.codetree.ai/profiles/rhalsgur0086)
 ![komh0086's GitHub stats](https://github-readme-stats.vercel.app/api?username=komh0086&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhalsgur0086)](https://solved.ac/rhalsgur1798@naver.com)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhalsgur0086)  
