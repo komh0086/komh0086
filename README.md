@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **komh0086/komh0086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
